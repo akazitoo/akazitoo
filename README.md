@@ -7,7 +7,7 @@ I'm Anthony Kevin a Computer Science Student and future Software Engineer. I'm a
 [![Linkedin Badge](https://img.shields.io/badge/-Anthony-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonykdelgado) [![Mail Badge](https://img.shields.io/badge/-@anthonykevii-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anthonykevii) [![Mail Badge](https://img.shields.io/badge/-akdsdev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akdsdev@gmail.com)
 
 - 📚 I’m currently studying at **Cesar School**
-- 🤔 I’m looking to learn more about Back-End stuff
+- 🤔 I’m looking to learn more about Blockchain development
 - 📫 How to reach me: akdsdev@gmail.com.
 - 😄 Pronouns: He/Him
-- ☔ Fun fact: I play games and go to the GYM very often.
+- ☔ Fun fact: I play games and I'm a enthusiastic about blockchain world 🌎.
